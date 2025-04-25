@@ -1,11 +1,12 @@
 <details align="center"> <summary>GitHub Trophies 🏆</summary> <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank"> <img src="https://github-profile-trophy.vercel.app/?username=chiangqinkang&theme=gruvbox"/> </a> </p> </details> <details> <summary>Github Stats</summary> <div align="center"> <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=chiangqinkang&show_icons=true&count_private=true&theme=radical" width="350" height="250"></a> <br> <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiangqinkang&layout=compact&theme=radical" width="350" height="250"></a> </div> </details>
 
 
-Hi 👋 I'm Qin Kang! I'm a Computer Science student at the National University of Singapore, specializing in Software Engineering and Distributed Systems.
+Hi 👋, I'm Qin Kang! I'm a Computer Science student at the National University of Singapore, specializing in Software Engineering and Distributed Systems.
 
 **🌟 My Interests & What I'm Learning! 🌟**
 
 - 💻 **Full Stack Development** — I love building things from front to back!
+- 🛠️ **System Design** — I’m fascinated by designing large-scale, fault-tolerant systems!
 - 🤖 **Artificial Intelligence** — Especially passionate about:
   - 🧠 **Deep Learning**
   - 👁️ **Computer Vision**
