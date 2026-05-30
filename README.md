@@ -5,18 +5,14 @@ Hi 👋, I'm Qin Kang! I'm a Computer Science student at the National University
 
 **🌟 My Interests & What I'm Learning! 🌟**
 
-- 💻 **Full Stack Development** — I love building things from front to back!
+- 💻 **Full Stack Development** I love building things from front to back!
 - 🛠️ **System Design** — I’m fascinated by designing large-scale, fault-tolerant systems!
-- 🤖 **Artificial Intelligence** — Especially passionate about:
+- 🤖 **Artificial Intelligence** Especially passionate about:
   - 🧠 **Deep Learning**
   - 👁️ **Computer Vision**
 - ☁️ **Currently exploring:**  
-  Leveraging **cloud computing** to deploy AI agents at scale! 🚀
-
 
 My interests include Full Stack Development and AI, specifically Deep Learning and Computer Vision.
-I'm currently learning more about leveraging cloud computing to deploy AI agents at scale!
-
 
 <h2 align="center">Technologies, Languages and Frameworks</h2>
 
